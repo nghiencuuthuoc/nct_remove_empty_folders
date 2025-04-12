@@ -37,5 +37,5 @@ File `.exe` sẽ nằm trong thư mục `dist/`.
 
 ## 📣 Liên hệ
 
-Thuộc dự án: **nghiencuuthuoc**  
-Người phát triển: RnD Pharma Plus
+Thuộc dự án: **PharmApp**  
+Người phát triển: **nghiencuuthuoc**
